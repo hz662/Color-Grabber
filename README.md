@@ -29,5 +29,5 @@ Grab the RGB color of each image pixel
    Enter the path to the image: path\to\your\image.jpg
    ```
 
-5. The script will output a list of RGB color values for each pixel in the in the results directory named "image_colors.txt".
+5. The script will output a list of RGB color values for each pixel in the results directory named "image_colors.txt".
 
