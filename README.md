@@ -3,11 +3,11 @@ Grab the RGB color of each image pixel
 
 ```
 
-## Installation
+# Installation
 
 1. Make sure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 
-## Usage
+# Usage
 
 1. Download this repository to your local machine:
 
